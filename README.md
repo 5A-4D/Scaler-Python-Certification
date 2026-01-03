@@ -24,3 +24,5 @@ This certification supports my ongoing work in:
 - Applying Python in cybersecurity, OSINT, and automation use cases  
 
 📂 **Certificate:**
+https://moonshot.scaler.com/s/sl/TWVPbamxts
+<img width="1727" height="1276" alt="fc6cd86a9f36aec6656f092b6a896bf695bce1510c9319dddf92408e2d3e74ef" src="https://github.com/user-attachments/assets/6c6359f2-d0a0-45c7-8962-ab5d022cf246" />
